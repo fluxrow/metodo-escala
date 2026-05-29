@@ -121,3 +121,18 @@ Me incomoda ver profissionais capazes produzindo menos do que poderiam porque n�
 Tecnologia não existe para substituir pessoas.
 
 Existe para permitir que elas entreguem o melhor que são capazes.
+
+---
+
+### 12. Cargo não gera excelência.
+
+Clareza gera excelência.
+
+Definir responsabilidades é obrigação.
+Criar alinhamento é liderança.
+
+---
+
+### 13. Ferramentas não transformam empresas.
+
+Pessoas capacitadas utilizando processos bem definidos transformam empresas.
