@@ -1,71 +1,25 @@
-# Strategic Insights
+# Insights Estratégicos — Método Escala
 
-## Insight #001
-
-Empresas não precisam de mais ferramentas.
-
-Precisam de mais clareza.
+Observações consolidadas a partir de diagnósticos reais em empresas de diferentes segmentos, tamanhos e estágios de maturidade.
 
 ---
 
-## Insight #002
+- Cargo definido é obrigação, não diferencial.
 
-Toda empresa cresce até o limite dos seus processos.
+- Empresas não sofrem por falta de ferramentas. Sofrem por falta de adoção.
 
----
+- Treinamento contínuo é uma vantagem competitiva.
 
-## Insight #003
+- O problema não é implantar uma ferramenta. É fazer as pessoas usarem corretamente.
 
-O Método Escala não vende IA.
+- Cultura forte reduz dependência de controle excessivo.
 
-O Método Escala vende previsibilidade.
+- Pessoas certas em processos errados geram desperdício.
 
----
+- Processos certos com pessoas erradas geram estagnação.
 
-## Insight #004
+- Disposição vale tanto quanto competência.
 
-Tecnologia é meio.
+- Acompanhamento não é microgerenciamento. É visibilidade.
 
-Clareza é objetivo.
-
----
-
-## Insight #005
-
-O problema raramente é falta de esforço.
-
-O problema geralmente é desperdício.
-
----
-
-## Insight #006
-
-A maioria das empresas quer acelerar antes de organizar.
-
----
-
-## Insight #007
-
-Empresas não operam no escuro porque querem.
-
-Operam no escuro porque nunca construíram visibilidade operacional.
-
----
-
-## Insight #008
-
-Crescimento sem estrutura gera caos.
-
----
-
-## Insight #009
-
-Quando tudo depende de uma pessoa, a empresa não possui um processo.
-
-Possui um gargalo.
-
----
-
-## Insight #010
-
-O potencial desperdiçado é um dos maiores custos invisíveis dentro das empresas.
+- Empresas maduras tomam decisões baseadas em dados, não em opiniões.
