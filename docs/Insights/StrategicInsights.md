@@ -23,3 +23,26 @@ Observações consolidadas a partir de diagnósticos reais em empresas de difere
 - Acompanhamento não é microgerenciamento. É visibilidade.
 
 - Empresas maduras tomam decisões baseadas em dados, não em opiniões.
+
+---
+
+## Insight #012
+
+Processo não é documentação.
+
+Processo é uma sequência repetível capaz de gerar um resultado previsível.
+
+Muitas empresas possuem documentos.
+Poucas possuem processos.
+
+A diferença aparece quando o resultado continua acontecendo independentemente de quem executa.
+
+---
+
+## Insight #013
+
+Uma empresa madura não depende da memória das pessoas.
+Depende da qualidade dos seus processos.
+
+Quando a informação existe apenas na cabeça de alguém, existe risco operacional.
+Quando a informação está incorporada ao processo, existe escala.
